@@ -7,6 +7,7 @@ author: "Julien Terrier"
 
 # A few personal experimentations
 
+ 
 
 ## [Dojo Mölkky](https://github.com/legzo/dojo-molkky)
 
@@ -14,7 +15,7 @@ author: "Julien Terrier"
 
 The rules of Mölkky implemented in Kotlin - this projects was built during [a series of 7 youtube videos](https://www.youtube.com/playlist?list=PLX3k_dCSBA49TfOPFwg7iqqxFvyTsP-H-) I made during the Covid-19 lockdown for the members of my team. The goal was to discover a few of the features of the Kotlin language through a fun dojo.
 
-![a screenshot](dojo-molkky.png)
+<img src="molkky.png" alt="molkky" width="500"/>
 
  
 
@@ -49,12 +50,6 @@ I really enjoy [Daniel Shiffman's youtube videos](https://www.youtube.com/c/TheC
  
 
 ## Older stuff
-
-### [Vroum](https://github.com/legzo/vroum)
-
-*#nodejs #express* 
-
-API-fication of the french second-hand vehicle website : La Centrale. 
 
 ### [Vroum](https://github.com/legzo/vroum)
 
