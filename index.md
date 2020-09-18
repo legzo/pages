@@ -25,7 +25,7 @@ The rules of Mölkky implemented in Kotlin - this projects was built during [a s
 
 I really enjoy the challenges from the yearly Advent of Code. I solved almost a half of the 2018 puzzles as well as some from 2019. It was an opportunity for me to try to write as idiomatic Kotlin code as possible. I also used some of the challenges for coding dojos with my team.
 
-![advent of code](advent-of-code.png)
+<img src="advent-of-code.png" alt="advent of code" width="500"/>
 
  
 
@@ -35,7 +35,7 @@ I really enjoy the challenges from the yearly Advent of Code. I solved almost a 
 
 I love cycling and I record my routes with Strava. But with a free account the analysis possibilities are a bit restricted on Strava. So I built an API that calls Strava API, and uses a local nosql database to store data and run analysis on it. It is deployed on Heroku and [you can for example see the kilometers I made each months of 2019](https://k-wheels.herokuapp.com/activities/commute/2019). In order to respect quotas and to be efficient while fetching data from Strava, I used coroutines to parallelize back-end API calls.
 
-![k-wheels](k-wheels.png)
+<img src="k-wheels.png" alt="k-wheels" width="500"/>
 
  
 
@@ -46,6 +46,16 @@ I love cycling and I record my routes with Strava. But with a free account the a
 I really enjoy [Daniel Shiffman's youtube videos](https://www.youtube.com/c/TheCodingTrain). I completed his MOOC ["The Nature of Code" on Kadenze](https://www.kadenze.com/courses/the-nature-of-code-ii/info). And here are a few experiments I made using p5.js (processing ported to js) and typescript instead of js.
 
 ![shapes](https://raw.githubusercontent.com/legzo/processing-stuff/master/shapes/shapes.gif)
+
+ 
+
+## [Turfu](https://github.com/legzo/turfu-web)
+
+*#kotlin #http4k #vanillajs*
+
+A friends of my wife's grandmother (!) asked me if I could implement a way to calculate a few rules to determine (according to her...) the best way to win at horse race betting. It was an opportunity to apply functional programing concepts and to discover the Http4k library. I also used this topic to build an internal series of dojos at work around immutability and lists manipulation.
+
+<img src="turfu.png" alt="turfu" width="500"/>
 
  
 
