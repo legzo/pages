@@ -23,7 +23,7 @@ The rules of Mölkky implemented in Kotlin - this projects was built during [a s
 
 *#kotlin*
 
-I really enjoy the challenges from the yearly Advent of Code. I solved almost a half of the 2018 puzzles as well as some from 2019. It was an opportunity for me to try to write as idiomatic Kotlin code as possible. I also used some of the challenges for coding dojos with my team.
+I really enjoy the challenges from the yearly Advent of Code. I solved almost a half of the 2018 puzzles as well as some from 2019. It was an opportunity for me to try to write Kotlin code as idiomatic as possible. I also used some of the challenges for coding dojos with my team.
 
 <img src="advent-of-code.png" alt="advent of code" width="500"/>
 
