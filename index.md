@@ -16,6 +16,8 @@ I enjoy listening to [Fip Radio](https://www.radiofrance.fr/fip), it is almost 1
 
 <img src="fip-recorder.png" alt="fip-recorder" width="500"/>
 
+ 
+
 ## [Touch - Pause - Engage](https://github.com/legzo/touch-pause-engage)
 
 *#kotlin #observableplot #dataviz*
@@ -24,7 +26,7 @@ In the 2021-22 season, the french rugby union championship was uncertain until t
 
 <img src="touch-pause-engage.png" alt="touch-pause-engage" width="600"/>
 
-
+ 
 
 ## [Dojo Mölkky](https://github.com/legzo/dojo-molkky)
 
@@ -34,7 +36,7 @@ The rules of Mölkky implemented in Kotlin - this projects was built during [a s
 
 <img src="molkky.png" alt="molkky" width="500"/>
 
-
+ 
 
 ## [Advent of Code](https://github.com/legzo/advent-of-code-2018)
 
@@ -58,7 +60,7 @@ I love cycling and I record my routes with Strava. But with a free account the a
  
  <img src="k-wheels-ui.png" alt="k-wheels-ui" width="400"/>
  
- 
+  
 
 ## [processing-stuff](https://github.com/legzo/processing-stuff)
 
@@ -68,7 +70,7 @@ I really enjoy [Daniel Shiffman's youtube videos](https://www.youtube.com/c/TheC
 
 ![shapes](https://raw.githubusercontent.com/legzo/processing-stuff/master/shapes/shapes.gif)
 
-
+ 
 
 ## [Turfu](https://github.com/legzo/turfu-web)
 
@@ -78,7 +80,7 @@ A friends of my wife's grandmother (!) asked me if I could implement a way to ca
 
 <img src="turfu.png" alt="turfu" width="500"/>
 
-
+ 
  
 ## Older stuff
 
