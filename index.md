@@ -12,7 +12,7 @@ author: "Julien Terrier"
 
 *#kotlin #fly.io #htmx #http4k*
 
-I enjoy listening to <a href="https://www.radiofrance.fr/fip" target="top">Fip Radio</a>), it is almost 100% music and very eclectic. I can't count the bands that I discovered thanks to this radio. So I made a wep application that connects to the Fip API in order to fetch all the songs aired during a week and generates a list of the top played songs. You can then export this list as a Spotify playlist ! I learned how to use <a href="https://fly.io" target="top">fly.io</a> for a kotlin http4k backend and used a bit of <a href="https://htmx.org" target="top">htmx</a> as I was curious about all the hype.
+I enjoy listening to [Fip Radio](https://www.radiofrance.fr/fip), it is almost 100% music and very eclectic. I can't count the bands that I discovered thanks to this radio. So I made a wep application that connects to the Fip API in order to fetch all the songs aired during a week and generates a list of the top played songs. You can then export this list as a Spotify playlist ! I learned how to use [fly.io](https://fly.io) for a kotlin http4k backend and used a bit of [htmx](https://htmx.org) as I was curious about all the hype.
 
 <img src="fip-recorder.png" alt="fip-recorder" width="500"/>
 
@@ -22,7 +22,7 @@ I enjoy listening to <a href="https://www.radiofrance.fr/fip" target="top">Fip R
 
 *#kotlin #observableplot #dataviz*
 
-In the 2021-22 season, the french rugby union championship was uncertain until the last minutes of play. I was curious to see how the rankings evolved minute by minute during the last games of the season. So I got the data from a website, wrangled it in kotlin and exported it as json, to be plotted with <a href="https://observablehq.com/@observablehq/plot" target="top">Observable Plot</a>.
+In the 2021-22 season, the french rugby union championship was uncertain until the last minutes of play. I was curious to see how the rankings evolved minute by minute during the last games of the season. So I got the data from a website, wrangled it in kotlin and exported it as json, to be plotted with [Observable Plot](https://observablehq.com/@observablehq/plot).
 
 <img src="touch-pause-engage.png" alt="touch-pause-engage" width="600"/>
 
@@ -32,7 +32,7 @@ In the 2021-22 season, the french rugby union championship was uncertain until t
 
 *#kotlin #dojo #youtube*
 
-The rules of Mölkky implemented in Kotlin - this projects was built during <a href="https://www.youtube.com/playlist?list=PLX3k_dCSBA49TfOPFwg7iqqxFvyTsP-H-)" target="top">a series of 7 youtube videos</a> I made during the Covid-19 lockdown for the members of my team. The goal was to discover a few of the features of the Kotlin language through a fun dojo.
+The rules of Mölkky implemented in Kotlin - this projects was built during [a series of 7 youtube videos](https://www.youtube.com/playlist?list=PLX3k_dCSBA49TfOPFwg7iqqxFvyTsP-H-) I made during the Covid-19 lockdown for the members of my team. The goal was to discover a few of the features of the Kotlin language through a fun dojo.
 
 <img src="molkky.png" alt="molkky" width="500"/>
 
